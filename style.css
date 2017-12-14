@@ -1,0 +1,17 @@
+table{
+    border-collapse:collapse;
+}
+td {
+   
+}
+.checkbox{
+    text-align: center;
+}
+.image1{
+    width: 2%;
+    float : left; 
+}
+.image2{
+    width: 2%;
+    float: left;
+}
